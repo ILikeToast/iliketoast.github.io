@@ -1,4 +1,17 @@
-h {
-    font-family: "Courier New", Courier, monospace;
+html,body {
+    background-color:#B0B0B0 ;
+}
+
+h1 {
+    font-family: monospace;
     font-size: 60 pt;
+    text-align:center;
+}
+h2 {
+    font-family: monospace;
+    font-size: 60 pt;
+    text-align:center;
+}
+.memes {
+    background-image:url('http://imgur.com/gallery/yNlQWRM') 10px 10px no-repeat
 }
